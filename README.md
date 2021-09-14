@@ -1,2 +1,2 @@
 # pwa-news
- Exemplo de PWA para ler neoticias 
+ Exemplo de PWA para ler noticias 
